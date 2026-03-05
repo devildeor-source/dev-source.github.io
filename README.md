@@ -1,4 +1,4 @@
-index.html
+ index.html
  <input id="question" placeholder="Ask something">
 <button onclick="ask()">Ask</button>
 
